@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T03:11:42.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="ec3w2nNEehdb2z43IeLx" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-15T03:15:34.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="fhdJqjiGs2B2qVbfjCy-" version="14.4.4" type="github">
   <diagram id="seSL-E3JKfU5rSVU0nJT" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,6 +82,15 @@
         </mxCell>
         <mxCell id="FNJFrBAfivQRf0GqRdr6-26" value="Start Game Scene" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="335" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FNJFrBAfivQRf0GqRdr6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FNJFrBAfivQRf0GqRdr6-30" target="FNJFrBAfivQRf0GqRdr6-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNJFrBAfivQRf0GqRdr6-30" value="Matchmaking Rules" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FNJFrBAfivQRf0GqRdr6-31" value="At least 3 players?&lt;br&gt;&lt;br&gt;Found 10 players." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="180" y="540" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
